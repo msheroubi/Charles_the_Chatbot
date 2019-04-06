@@ -30,6 +30,7 @@ This is an implementation of Norvig's spell corrector algorithm, is used to chec
 This is used to tokenize a string into an array of words. And then loops over the array and double checks the spelling of each word in the list. Then using NLTK's POS Tagger, the tokenized string is then tagged with the following tags:
 
 *Courtesy of sentdex (pythonprogramming.net)*
+
         CC Coordinating conjunction
         CD Cardinal number
         DT Determiner
