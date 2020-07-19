@@ -1,4 +1,4 @@
-# Charles The AI
+# Charles The Chatbot
 
 ## Changes
 For this project, I made an (almost) complete system overhaul from A2. The conversation agent has been completely changed along with a handful of added features from the "buffet" of features.
