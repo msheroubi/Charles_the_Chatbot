@@ -1,7 +1,7 @@
 # Charles The Chatbot
 
 ## Changes
-For this project, I made an (almost) complete system overhaul from A2. The conversation agent has been completely changed along with a handful of added features from the "buffet" of features.
+For this project, I made an (almost) complete system overhaul of the last bot. The conversation agent has been completely changed along with a handful of added features from the "buffet" of features.
 
 ### Object Dependencies
 (question_answers.pickle / root_dict.pickle / sent_tokenizer.pickle)
